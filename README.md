@@ -21,9 +21,10 @@ Results-driven Full Stack Developer with 1.6 years of experience specializing in
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jahir-karins&theme=react&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jahir-karins&theme=react&hide_border=false&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahir-karins&theme=react&hide_border=false&layout=compact&v=1)
+![](https://github-readme-stats.vercel.app/api?username=jahir-karins&theme=react&hide_border=false&include_all_commits=true&count_private=true&v=2)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jahir-karins&theme=react&hide_border=false&v=2)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahir-karins&theme=react&hide_border=false&layout=compact&v=2)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jahir-karins&icon=1&color=0)](https://visitcount.itsvg.in)
